@@ -1,0 +1,75 @@
+# --- OS junk ---
+.DS_Store
+Thumbs.db
+
+# --- Python / build ---
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+*.egg
+*.egg-info/
+.eggs/
+build/
+dist/
+pip-wheel-metadata/
+.pytest_cache/
+.mypy_cache/
+.pytype/
+.coverage
+coverage.xml
+htmlcov/
+
+# --- Virtual environments ---
+.venv/
+venv/
+env/
+ENV/
+
+# --- Editors/IDEs ---
+.vscode/
+.idea/
+*.code-workspace
+
+# --- Logs ---
+*.log
+logs/
+*.tmp
+tmp/
+
+# --- Secrets & local config ---
+.env
+.env.*
+!*.env.example
+*.secret*
+*.secrets*
+.secrets/
+.secret/
+
+# --- Project data (sqlite, vectors, uploads, cache) ---
+.data/**
+!.data/.gitkeep
+*.db
+*.sqlite
+*.sqlite3
+
+# Chroma / vector stores (if outside .data)
+**/chroma_store/**
+**/chroma/**
+**/index_store/**
+**/faiss_index/**
+
+# --- Streamlit ---
+.streamlit/secrets.toml
+.streamlit/state.json
+# keep config if you have it:
+#!.streamlit/config.toml
+
+# --- Frontend build caches (if any appear) ---
+node_modules/
+*.map
+
+# --- Misc ---
+# macOS zip metadata
+__MACOSX/
