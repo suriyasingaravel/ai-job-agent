@@ -1,0 +1,182 @@
+{
+  "1397e5c6-8d13-4e36-9737-517a9bc59af6": {
+    "name": "Suriya Singaravel",
+    "email": "",
+    "phone": "8883259467",
+    "years_experience": 2.0,
+    "locations": [
+      "Bengaluru",
+      "Remote"
+    ],
+    "roles": [
+      "Fullstack Developer",
+      "Backend Engineer"
+    ],
+    "skills": [
+      "Python",
+      "FastAPI",
+      "LangChain",
+      "Streamlit",
+      "React"
+    ],
+    "portals": [
+      "linkedin",
+      "indeed",
+      "naukri"
+    ],
+    "resume_text": null,
+    "id": "1397e5c6-8d13-4e36-9737-517a9bc59af6"
+  },
+  "940db244-927e-46b1-b86b-5516c37b14c4": {
+    "name": "Suriya Singaravel",
+    "email": "",
+    "phone": "8883259467",
+    "years_experience": 2.0,
+    "locations": [
+      "Bengaluru",
+      "Hybrid"
+    ],
+    "roles": [
+      "Frontend Engineer"
+    ],
+    "skills": [
+      "React",
+      "HTML",
+      "CSS",
+      "Javascript",
+      "Next Js"
+    ],
+    "portals": [
+      "hirist",
+      "linkedin"
+    ],
+    "resume_text": null,
+    "id": "940db244-927e-46b1-b86b-5516c37b14c4"
+  },
+  "b41ad1fc-3655-41f0-a12f-e83286b0c019": {
+    "resume_text": "Suriya Singaravel\nFront-End Developer\nsuriyasingaravel710@gmail.com\n+91-8883259467\nhttps://www.linkedin.com/in/suriya-\nsingaravel/\nhttps://github.com/suriyasingaravel\nhttps://suriyasingaravel.github.io/\nBengaluru, India\nEDUCATION\nBeachelor of Technology - Textile Technology \n& Engineering\nAnna University\nAug 2015 – Sep 2019 | Chennai, India\nFullstack Web Development - MERN\nMasai School\nMar 2023 – Feb 2024 | Bengaluru, India\nTECHNICAL SKILLS\nCore Web Technologies: HTML5, CSS3, \nJavaScript,  TypeScript\nFrontend Frameworks & Libraries: React.js, \nNext.js, Redux, Context API\nStyling & UI Frameworks: Tailwind CSS, \nBootstrap, Material UI\nPerformance & Best Practices: Responsive \nDesign, Cross-Browser Compatibility\nCollaboration & Tools:  Git (Version Control), \nAsynchronous Programming, CI/CD Basics\nAdditional Skills : Node.js, Express.js, MongoDB, \nData Structures & Algorithms, Python, \nLangChain, LangGraph, Agentic AI\nSOFT SKILLS\nProblem Solving, Proactive, Easy to Adapt, \nEffective Communication & Attention to DetailPROFILE\nFront-End Developer with around 3 years of experience \nbuilding responsive and scalable web applications using \nHTML5, CSS3, JavaScript, and React.js. Skilled in RESTful \nAPI integration, Redux/Context API,  cross-browser \ncompatibility, and performance optimization. Strong in \nproblem-solving, debugging, and collaborating with cross-\nfunctional teams to deliver clean, maintainable, and user-\nfocused code. Familiar with TypeScript, Next.js, Git, and \nCI/CD practices.\nPROFESSIONAL EXPERIENCE\nHOGR Food Network Pvt Ltd\nFrontend Engineer\nFeb 2024 – Present | Bangalore, Karnataka\n•Built responsive, scalable web applications using React.js, \nNext.js, HTML5, CSS3, JavaScript, and TypeScript.\n•Optimized web performance and load times through \nefficient coding practices, caching, and cross-browser \ncompatibility improvements.\n•Integrated RESTful APIs and implemented state \nmanagement using Redux/Context API to build \nmaintainable, high-performing applications.\n•Collaborated with designers, product managers, and \nbackend teams to deliver client-facing features.\nKG Denim Limited\nMarketing & Web Development Associate\nFeb 2022 – Apr 2023 | Bangalore, Karnataka\n•Developed static web pages using HTML5, CSS3, and \nJavaScript for marketing initiatives and product showcases.\n•Built promotional landing pages and internal tools to \nsupport brand communication strategies using Webflow \nand custom API integrations.\nPROJECTS\nHOGR\nHOGR is the official online presence of HOGR Food Network \nLimited, designed to showcase the brand, services, and digital \nordering capabilities.\nChocoChip.ai\nChocoChip is an AI-powered virtual assistant platform \ndesigned to enhance the customer experience in the restaurant \nindustry. It features a dual-interface system: a Laravel-based \nadmin dashboard for restaurant owners to manage data, and a \nReact.js + Tailwind CSS chatbot interface for customers to \ninteract with.\nHOGR Ordering Web App\nA mobile-first web application built for HOGR Foods, designed \nto simplify and enhance the restaurant ordering experience. ",
+    "skills": [
+      "langchain",
+      "langgraph",
+      "ml",
+      "mongodb",
+      "node",
+      "python",
+      "react",
+      "rest",
+      "typescript"
+    ],
+    "id": "b41ad1fc-3655-41f0-a12f-e83286b0c019"
+  },
+  "e37e2c0a-2b71-488f-8998-83a76a2965a4": {
+    "name": "Suriya Singaravel",
+    "email": "",
+    "phone": "8883259467",
+    "years_experience": 3.0,
+    "locations": [
+      "Kochi"
+    ],
+    "roles": [
+      "Fullstack Developer"
+    ],
+    "skills": [
+      "React js",
+      "Next js",
+      "Node js",
+      "Express Js",
+      "MongoDB"
+    ],
+    "portals": [
+      "linkedin",
+      "indeed",
+      "naukri",
+      "hirist"
+    ],
+    "resume_text": null,
+    "id": "e37e2c0a-2b71-488f-8998-83a76a2965a4"
+  },
+  "f4d4f1f6-cdb1-4b9e-a55a-ec898e8bd5e6": {
+    "name": "Suriya Singaravel",
+    "email": "",
+    "phone": "8883259467",
+    "years_experience": 3.0,
+    "locations": [
+      "Kochi"
+    ],
+    "roles": [
+      "Fullstack Developer"
+    ],
+    "skills": [
+      "React js",
+      "Next js",
+      "Node js",
+      "Express Js",
+      "MongoDB"
+    ],
+    "portals": [
+      "linkedin",
+      "indeed",
+      "naukri",
+      "hirist"
+    ],
+    "resume_text": null,
+    "id": "f4d4f1f6-cdb1-4b9e-a55a-ec898e8bd5e6"
+  },
+  "e56bcb6f-ad91-4762-ae67-f5cb6237e3a2": {
+    "resume_text": "Suriya Singaravel\nFront-End Developer\nsuriyasingaravel710@gmail.com\n+91-8883259467\nhttps://www.linkedin.com/in/suriya-\nsingaravel/\nhttps://github.com/suriyasingaravel\nhttps://suriyasingaravel.github.io/\nBengaluru, India\nEDUCATION\nBeachelor of Technology - Textile Technology \n& Engineering\nAnna University\nAug 2015 – Sep 2019 | Chennai, India\nFullstack Web Development - MERN\nMasai School\nMar 2023 – Feb 2024 | Bengaluru, India\nTECHNICAL SKILLS\nCore Web Technologies: HTML5, CSS3, \nJavaScript,  TypeScript\nFrontend Frameworks & Libraries: React.js, \nNext.js, Redux, Context API\nStyling & UI Frameworks: Tailwind CSS, \nBootstrap, Material UI\nPerformance & Best Practices: Responsive \nDesign, Cross-Browser Compatibility\nCollaboration & Tools:  Git (Version Control), \nAsynchronous Programming, CI/CD Basics\nAdditional Skills : Node.js, Express.js, MongoDB, \nData Structures & Algorithms, Python, \nLangChain, LangGraph, Agentic AI\nSOFT SKILLS\nProblem Solving, Proactive, Easy to Adapt, \nEffective Communication & Attention to DetailPROFILE\nFront-End Developer with around 3 years of experience \nbuilding responsive and scalable web applications using \nHTML5, CSS3, JavaScript, and React.js. Skilled in RESTful \nAPI integration, Redux/Context API,  cross-browser \ncompatibility, and performance optimization. Strong in \nproblem-solving, debugging, and collaborating with cross-\nfunctional teams to deliver clean, maintainable, and user-\nfocused code. Familiar with TypeScript, Next.js, Git, and \nCI/CD practices.\nPROFESSIONAL EXPERIENCE\nHOGR Food Network Pvt Ltd\nFrontend Engineer\nFeb 2024 – Present | Bangalore, Karnataka\n•Built responsive, scalable web applications using React.js, \nNext.js, HTML5, CSS3, JavaScript, and TypeScript.\n•Optimized web performance and load times through \nefficient coding practices, caching, and cross-browser \ncompatibility improvements.\n•Integrated RESTful APIs and implemented state \nmanagement using Redux/Context API to build \nmaintainable, high-performing applications.\n•Collaborated with designers, product managers, and \nbackend teams to deliver client-facing features.\nKG Denim Limited\nMarketing & Web Development Associate\nFeb 2022 – Apr 2023 | Bangalore, Karnataka\n•Developed static web pages using HTML5, CSS3, and \nJavaScript for marketing initiatives and product showcases.\n•Built promotional landing pages and internal tools to \nsupport brand communication strategies using Webflow \nand custom API integrations.\nPROJECTS\nHOGR\nHOGR is the official online presence of HOGR Food Network \nLimited, designed to showcase the brand, services, and digital \nordering capabilities.\nChocoChip.ai\nChocoChip is an AI-powered virtual assistant platform \ndesigned to enhance the customer experience in the restaurant \nindustry. It features a dual-interface system: a Laravel-based \nadmin dashboard for restaurant owners to manage data, and a \nReact.js + Tailwind CSS chatbot interface for customers to \ninteract with.\nHOGR Ordering Web App\nA mobile-first web application built for HOGR Foods, designed \nto simplify and enhance the restaurant ordering experience. ",
+    "skills": [
+      "langchain",
+      "langgraph",
+      "ml",
+      "mongodb",
+      "node",
+      "python",
+      "react",
+      "rest",
+      "typescript"
+    ],
+    "id": "e56bcb6f-ad91-4762-ae67-f5cb6237e3a2"
+  },
+  "d582a6af-f729-4868-aa76-c37f78f7771f": {
+    "name": "Suriya Singaravel",
+    "email": "",
+    "phone": "8883259467",
+    "years_experience": 3.0,
+    "locations": [
+      "coimbatore"
+    ],
+    "roles": [
+      "Fullstack Developer"
+    ],
+    "skills": [
+      "React js",
+      "Next js",
+      "Node js",
+      "Express Js",
+      "MongoDB"
+    ],
+    "portals": [
+      "linkedin",
+      "indeed",
+      "naukri",
+      "hirist"
+    ],
+    "resume_text": null,
+    "id": "d582a6af-f729-4868-aa76-c37f78f7771f"
+  },
+  "c5103b75-0b99-4fdd-bbf3-83e9511e2b1c": {
+    "resume_text": "Suriya Singaravel\nFront-End Developer\nsuriyasingaravel710@gmail.com\n+91-8883259467\nhttps://www.linkedin.com/in/suriya-\nsingaravel/\nhttps://github.com/suriyasingaravel\nhttps://suriyasingaravel.github.io/\nBengaluru, India\nEDUCATION\nBeachelor of Technology - Textile Technology \n& Engineering\nAnna University\nAug 2015 – Sep 2019 | Chennai, India\nFullstack Web Development - MERN\nMasai School\nMar 2023 – Feb 2024 | Bengaluru, India\nTECHNICAL SKILLS\nCore Web Technologies: HTML5, CSS3, \nJavaScript,  TypeScript\nFrontend Frameworks & Libraries: React.js, \nNext.js, Redux, Context API\nStyling & UI Frameworks: Tailwind CSS, \nBootstrap, Material UI\nPerformance & Best Practices: Responsive \nDesign, Cross-Browser Compatibility\nCollaboration & Tools:  Git (Version Control), \nAsynchronous Programming, CI/CD Basics\nAdditional Skills : Node.js, Express.js, MongoDB, \nData Structures & Algorithms, Python, \nLangChain, LangGraph, Agentic AI\nSOFT SKILLS\nProblem Solving, Proactive, Easy to Adapt, \nEffective Communication & Attention to DetailPROFILE\nFront-End Developer with around 3 years of experience \nbuilding responsive and scalable web applications using \nHTML5, CSS3, JavaScript, and React.js. Skilled in RESTful \nAPI integration, Redux/Context API,  cross-browser \ncompatibility, and performance optimization. Strong in \nproblem-solving, debugging, and collaborating with cross-\nfunctional teams to deliver clean, maintainable, and user-\nfocused code. Familiar with TypeScript, Next.js, Git, and \nCI/CD practices.\nPROFESSIONAL EXPERIENCE\nHOGR Food Network Pvt Ltd\nFrontend Engineer\nFeb 2024 – Present | Bangalore, Karnataka\n•Built responsive, scalable web applications using React.js, \nNext.js, HTML5, CSS3, JavaScript, and TypeScript.\n•Optimized web performance and load times through \nefficient coding practices, caching, and cross-browser \ncompatibility improvements.\n•Integrated RESTful APIs and implemented state \nmanagement using Redux/Context API to build \nmaintainable, high-performing applications.\n•Collaborated with designers, product managers, and \nbackend teams to deliver client-facing features.\nKG Denim Limited\nMarketing & Web Development Associate\nFeb 2022 – Apr 2023 | Bangalore, Karnataka\n•Developed static web pages using HTML5, CSS3, and \nJavaScript for marketing initiatives and product showcases.\n•Built promotional landing pages and internal tools to \nsupport brand communication strategies using Webflow \nand custom API integrations.\nPROJECTS\nHOGR\nHOGR is the official online presence of HOGR Food Network \nLimited, designed to showcase the brand, services, and digital \nordering capabilities.\nChocoChip.ai\nChocoChip is an AI-powered virtual assistant platform \ndesigned to enhance the customer experience in the restaurant \nindustry. It features a dual-interface system: a Laravel-based \nadmin dashboard for restaurant owners to manage data, and a \nReact.js + Tailwind CSS chatbot interface for customers to \ninteract with.\nHOGR Ordering Web App\nA mobile-first web application built for HOGR Foods, designed \nto simplify and enhance the restaurant ordering experience. ",
+    "skills": [
+      "langchain",
+      "langgraph",
+      "ml",
+      "mongodb",
+      "node",
+      "python",
+      "react",
+      "rest",
+      "typescript"
+    ],
+    "id": "c5103b75-0b99-4fdd-bbf3-83e9511e2b1c"
+  }
+}
