@@ -48,6 +48,26 @@ class ContactInfo(BaseModel):
     title: Optional[str] = None
     found: bool = False
 
+# ---------- NEW: Enrichment payload ----------
+
+class EnrichQuery(BaseModel):
+    # All optional so UI can pass either company OR urls
+    company: Optional[str] = None
+    job_title: Optional[str] = None
+    job_url: Optional[str] = None         # keep as str for leniency
+    linkedin_url: Optional[str] = None    # HR/Recruiter LinkedIn URL
+
+class EnrichRequest(BaseModel):
+    job: JobHit
+    profile_id: Optional[str] = None
+    query: Optional[EnrichQuery] = None
+
+# Endpoint can return the found contact
+class EnrichResponse(ContactInfo):
+    pass
+
+# ---------- Compose & pipeline ----------
+
 class ComposeRequest(BaseModel):
     job: JobHit
     contact: Optional[ContactInfo] = None

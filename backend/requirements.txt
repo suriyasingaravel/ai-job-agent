@@ -1,16 +1,32 @@
+# Web API
 fastapi==0.115.0
 uvicorn[standard]==0.30.6
 python-multipart==0.0.9
+
+# Config & validation
 pydantic==2.9.2
 pydantic-settings==2.5.2
+python-dotenv==1.0.1
+
+# LLMs & orchestration
+langchain==0.2.14
+langchain-community==0.2.12
+langgraph==0.2.16
+langchain-google-genai==1.0.6
 google-generativeai==0.7.2
+
+# Search / scraping
 requests==2.32.3
 beautifulsoup4==4.12.3
+google-search-results==2.4.2  # SerpAPI client
+
+# Text / scoring
 rapidfuzz==3.9.6
 numpy==2.1.1
-scikit-learn==1.5.2
-python-dotenv==1.0.1
-pypdf==5.0.0
-SQLAlchemy==2.0.34
-sqlalchemy
+scikit-learn==1.5.2  # if build issues on Python 3.13, use Python 3.12
 
+# PDF parsing
+pypdf==5.0.0
+
+# Database (if/when you re-enable persistence)
+SQLAlchemy==2.0.34
