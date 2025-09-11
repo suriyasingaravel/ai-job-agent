@@ -4,7 +4,7 @@ import streamlit as st
 from urllib.parse import urljoin
 
 # ---------- Config ----------
-DEFAULT_API = os.getenv("API_URL", "http://127.0.0.1:8000/")
+DEFAULT_API = os.getenv("API_URL", "https://ai-job-hunt-agent-backend.onrender.com")
 st.set_page_config(page_title="AI Job Agent", layout="wide")
 st.title("AI Job Agent — Gemini + FastAPI Demo")
 
